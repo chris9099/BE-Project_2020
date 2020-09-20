@@ -1,0 +1,7 @@
+scipy
+dlib==19.17.0
+imutils==0.5.2
+numpy==1.15.4
+opencv-python
+PyQt4==4.12.3
+pyqtgraph==0.10.0
